@@ -1,6 +1,6 @@
 {
   "appname": "Admin App",
-  "ocscope": "FullAccess",
+  "ocscope": "DevCenterImpersonate FullAccess",
   "clientid": "D22112B7-5795-44B8-97BA-9953409AB3F8",
   "buyerid": "12",
   "environment": "prod",
